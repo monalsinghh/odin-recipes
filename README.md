@@ -1,1 +1,1 @@
-This is the first assignment within the Odin Project. I like the Odin Project but I think I am a visual learner so might have to switch platforms once I complete the foundations course. 
+This is the first assignment within the Odin Project. The goal of the project is to create a simple html website the shows recipes for a few dishes. 
